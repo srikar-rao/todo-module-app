@@ -1,7 +1,8 @@
 package com.moduler.todo.service;
 
 
-import org.module.persistence.entity.TodoEntity;
+
+import com.moduler.todo.entity.TodoEntity;
 
 import java.util.List;
 

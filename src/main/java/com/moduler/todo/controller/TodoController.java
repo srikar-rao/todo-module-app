@@ -1,9 +1,9 @@
 package com.moduler.todo.controller;
 
+import com.moduler.todo.entity.TodoEntity;
 import com.moduler.todo.service.TodoService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.module.persistence.entity.TodoEntity;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,10 +1,10 @@
 package com.moduler.todo.service.impl;
 
+import com.moduler.todo.entity.TodoEntity;
+import com.moduler.todo.repository.TodoRepository;
 import com.moduler.todo.service.TodoService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.module.persistence.entity.TodoEntity;
-import org.module.persistence.repository.TodoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
